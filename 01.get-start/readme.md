@@ -4,9 +4,12 @@
 
 > sudo apt upgrade -y
 
+> sudo apt install curl wget git vim nano unzip htop -y
+
 ## Code Editor
 
 > nano
+
 > vim
 
 
